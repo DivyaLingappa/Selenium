@@ -1,1 +1,1 @@
-# Selenium-using-Python
+- ![Cookie_Clicker_Game_Automation_Demo](demo/cookie-clicker-game-automation-demo.gif)
